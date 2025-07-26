@@ -1,3 +1,5 @@
+![Band Name Generator](banner.png)
+
 # 🎸 Band Name Generator in Python
 
 A fun and beginner-friendly **Python project** that generates a creative band name based on your personal input. This script is perfect for practicing **Python basics**, including user input, string manipulation, and running Python scripts from the command line.
